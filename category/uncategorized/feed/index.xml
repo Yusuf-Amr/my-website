@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; yusufamr.com</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 06 Apr 2024 12:28:15 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/05/cropped-cropped-cropped_image2-32x32.png</url>
+	<title>Uncategorized &#8211; yusufamr.com</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Malware Analysis Report on LockBit 3.0 Ransomware</title>
+		<link>/malware-analysis-report-on-lockbit-3-0-ransomware/</link>
+					<comments>/malware-analysis-report-on-lockbit-3-0-ransomware/#respond</comments>
+		
+		<dc:creator><![CDATA[Yusuf Amr]]></dc:creator>
+		<pubDate>Wed, 28 Feb 2024 23:50:00 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=1197</guid>
+
+					<description><![CDATA[This is an analysis of malware for the LockBit 3.0 ransomware sample that was discovered on February 7, 2024. The YARA rules that are used for detection are included in the report. LockBit 3.0 represents a significant threat in the cybersecurity landscape, showcasing advanced capabilities and tactics. In this analysis, you can find the behavior [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image aligncenter size-full"><img fetchpriority="high" decoding="async" width="728" height="380" src="/wp-content/uploads/2024/04/lockbit-1.jpg" alt="" class="wp-image-1201" srcset="/wp-content/uploads/2024/04/lockbit-1.jpg 728w, /wp-content/uploads/2024/04/lockbit-1-300x157.jpg 300w" sizes="(max-width: 728px) 100vw, 728px" /></figure>
+
+
+
+<p class="has-medium-font-size">This is an analysis of malware for the LockBit 3.0 ransomware sample that was discovered on February 7, 2024. The YARA rules that are used for detection are included in the report. </p>
+
+
+
+<p class="has-medium-font-size">LockBit 3.0 represents a significant threat in the cybersecurity landscape, showcasing advanced capabilities and tactics. In this analysis, you can find the behavior and characteristics of LockBit 3.0, aiming to provide insights that can aid in defense and mitigation strategies against this malicious software. Let&#8217;s examine this in more details.</p>
+
+
+
+<div data-wp-interactive="core/file" class="wp-block-file"><object data-wp-bind--hidden="!state.hasPdfPreview" hidden class="wp-block-file__embed" data="/wp-content/uploads/2024/04/Malware-Analysis-Report-of-LockBit-3.0-Ransomware.pdf" type="application/pdf" style="width:100%;height:1400px" aria-label="Embed of Malware-Analysis-Report-of-LockBit-3.0-Ransomware(PDF)."></object><a id="wp-block-file--media-b13f3780-0183-4c4a-8484-ec088a301979" href="/wp-content/uploads/2024/04/Malware-Analysis-Report-of-LockBit-3.0-Ransomware.pdf">Malware-Analysis-Report-of-LockBit-3.0-Ransomware(PDF)</a><a href="/wp-content/uploads/2024/04/Malware-Analysis-Report-of-LockBit-3.0-Ransomware.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-b13f3780-0183-4c4a-8484-ec088a301979">Download</a></div>
+
+
+
+<p>Post Link on Linkedin: <a href="https://www.linkedin.com/feed/update/urn:li:activity:7168725882155450368">https://www.linkedin.com/feed/update/urn:li:activity:7168725882155450368</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/malware-analysis-report-on-lockbit-3-0-ransomware/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
